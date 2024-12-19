@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CSS
-=======
 ## CSS
 <a name="readme-top"></a>
 
