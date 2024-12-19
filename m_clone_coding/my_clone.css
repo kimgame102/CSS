@@ -1,0 +1,1488 @@
+@import "https://assets.ohou.se/design-system/bbf3fca1e650ee6d.css";@import "https://assets.ohou.se/fonts/pretendard/v1.3.8/pretendardvariable-dynamic-subset.css";@font-face {
+    font-family: OhouseIcon;
+    src: url(https://assets.ohou.se/design-system/3298ed52addbc709.eot);
+    src: url(https://assets.ohou.se/design-system/3298ed52addbc709.eot#iefix) format("embedded-opentype"),url(https://assets.ohou.se/design-system/d8923b386a66fd50.woff2) format("woff2"),url(https://assets.ohou.se/design-system/9e79341d6a2fe0d2.woff) format("woff"),url(https://assets.ohou.se/design-system/5355f736e6a7bc5b.ttf) format("truetype"),url(https://assets.ohou.se/design-system/3ba7913eab100858.svg#OhouseIcon) format("svg")
+}
+
+@font-face {
+	font-family: 'Pretendard Variable';
+	font-style: normal;
+	font-display: swap;
+	font-weight: 45 920;
+	src: url("fonts/PretendardVariable.woff2") format('woff2-variations');
+}
+body, figure, h1, h2, h3, h4, h5, h6, hr, input, p, ul {
+    margin: 0;
+}
+
+html {
+    font-family: Pretendard Variable, sans-serif;
+}
+
+
+body{
+    margin: 0;
+    height: 100%;
+    letter-spacing: -.3px;
+    word-break: keep-all;
+    word-wrap: break-word;
+    -webkit-font-smoothing: antialiased;
+}
+
+* {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    text-decoration: none;
+}
+
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.css-1dcvic0 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.css-i7a8i3 {
+    background: #FFFFFF;
+    border-bottom: 1px solid #EAEDEF;
+}
+
+.css-16muxkn {
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 1256px;
+    margin: 0 auto;
+    padding: 0 60px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    box-sizing: border-box;
+    line-height: 0;
+}
+
+
+.css-ajkdu6 {
+    flex: 0 0 auto;
+    color: #212629;
+}
+
+.css-1w3akq4 {
+    border: none;
+    background: none;
+    font: inherit;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: -4px;
+    padding: 4px;
+    font-size: 0;
+    line-height: 0;
+    color: #212629;
+    outline: none;
+}
+
+.css-40f4ru {
+    vertical-align: top;
+}
+
+.css-1tjjsgo {
+    flex: 1 1 0px;
+    white-space: nowrap;
+}
+
+.css-kc2k9g {
+    border: none;
+    background: none;
+    font: inherit;
+    position: relative;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 21px 5px 15px;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: bold;
+    color: #2F3438;
+    outline: none;
+}
+
+.css-18nk785 {
+    display: inline-block;
+    margin: -4px;
+    padding: 4px;
+    border-radius: 3px;
+}
+
+.css-1y1p1a0 {
+    border: none;
+    background: none;
+    font: inherit;
+    position: relative;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 21px 5px 15px;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: bold;
+    outline: none;
+    color: #35C5F0;
+}
+
+.css-10vibjk {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    line-height: 0;
+}
+
+.css-8pnxff {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex: 1 1 0px;
+    min-width: 0;
+    margin-right: 9px;
+}
+
+.css-15tomhv {
+    display: flex;
+    width: 100%;
+}
+
+.css-649dyn {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    line-height: 0;
+    box-sizing: border-box;
+    border: 1px solid #E6E6E6;
+    border-radius: 4px;
+    height: 40px;
+    padding: 0 14px;
+    width: 100%;
+}
+
+.css-x36bb::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+
+._search_24:before {
+    content: "\ea4d";
+}
+
+.css-x36bb {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 1;
+    vertical-align: middle;
+    padding-right: 6px;
+    color: #828C94;
+}
+
+.css-1hly758 {
+    box-sizing: border-box;
+    flex: 1 0 0%;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    height: 100%;
+    color: #2F3438;
+    outline: none;
+    font-size: 16px;
+    line-height: 24px;
+    padding-right: 6px;
+}
+
+.css-1x85xji {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-e101sa {
+    display: inline-block;
+    border: none;
+    background: none;
+    font: inherit;
+    padding: 6px;
+    margin: 3px 1px;
+    color: #2F3438;
+    line-height: 0;
+    outline: none;
+}
+
+.css-1cbimta {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 1;
+}
+
+.css-giclcf {
+    position: relative;
+    display: inline-block;
+    padding: 6px;
+    margin: 3px 1px;
+    color: #2F3438;
+    line-height: 0;
+    outline: none;
+}
+
+.css-fp47gd {
+    display: inline-block;
+    line-height: 1;
+    font-size: 24px;
+}
+.css-fp47gd::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+
+._cart_24:before {
+    content: "\e94e";
+}
+
+.css-125iouc {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-1kpxvh4 {
+    display: flex;
+    margin: 0 10px 0 8px;
+}
+
+
+.css-lfwz6e {
+    font-size: 14px;
+    line-height: 18px;
+    color: #2F3438;
+    padding: 0 10px;
+    border-left: 1px solid #EAEDEF;
+}
+
+.css-s4f30z {
+    font-size: 14px;
+    line-height: 18px;
+    color: #2F3438;
+    padding: 0 10px;
+    border-left: 1px solid #EAEDEF;
+}
+
+.css-zp3rxa {
+    margin: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    font-size: 14px;
+    line-height: 18px;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: auto;
+    height: 40px;
+    border-radius: 4px;
+    padding: 0 16px;
+    font-weight: 400;
+    box-sizing: border-box;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #35C5F0;
+    outline: none;
+    overflow: hidden;
+}
+
+.css-144xe9u {
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.css-2tqcks {
+    font-size: 18px;
+    line-height: 1;
+    vertical-align: middle;
+}
+
+.css-2tqcks::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+
+.css-sg6sjt {
+    background: #FFFFFF;
+    border-bottom: 1px solid #EAEDEF;
+}
+
+.css-8pow8z {
+    max-width: 1256px;
+    margin: 0 auto;
+    padding: 0 60px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.css-1mgrzpu {
+    flex: 1 0 0;
+}
+
+.css-6g3vls {
+    display: flex;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    overflow-x: auto;
+    white-space: nowrap;
+    margin: 0 -5px;
+    height: 52px;
+}
+
+.css-6g3vls.css-6g3vls>* {
+    margin: 0 5px;
+}
+
+.css-1xdh21q {
+    height: inherit;
+    display: block;
+}
+
+.css-xdh21q {
+    height: inherit;
+    display: block;
+}
+
+.css-gth0vq {
+    height: inherit;
+}
+
+.css-h5qpfb {
+    margin: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    vertical-align: top;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 12px 6px;
+    height: inherit;
+    outline: none;
+}
+
+.css-4dl1id {
+    padding: 4px;
+    margin: -4px;
+}
+
+.css-h5qpfb>div>p {
+    font-weight: 700;
+}
+
+.css-x11x3z {
+    font-size: 16px;
+    line-height: 20px;
+    position: relative;
+    color: #2F3438;
+}
+
+.css-h5qpfb:after {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #35C5F0;
+    transition: transform 0.2s;
+    transform: scale(0);
+}
+
+.css-309sd4 {
+    margin: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    vertical-align: top;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 12px 6px;
+    height: inherit;
+    outline: none;
+}
+
+.css-309sd4>div>p {
+    font-weight: 700;
+}
+
+.css-9eqgqg {
+    font-size: 16px;
+    line-height: 20px;
+    position: relative;
+    color: #35C5F0;
+}
+
+.css-309sd4:after {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #35C5F0;
+    transition: transform 0.2s;
+    transform: scale(1);
+}
+
+.css-x11x3z {
+    font-size: 16px;
+    line-height: 20px;
+    position: relative;
+    font-weight: 500;
+    color: #2F3438;
+}
+
+.css-1ltyjp3 {
+    display: block;
+    margin-left: 10px;
+    flex: 0 0 auto;
+}
+
+.css-bjn8wh {
+    position: relative;
+}
+
+.css-1n1qctw {
+    line-height: 0;
+}
+
+.css-ga3b11 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.css-s0wc5p {
+    position: relative;
+    margin-right: 6px;
+    overflow: hidden;
+}
+
+.css-6dhm9o {
+    visibility: hidden;
+}
+
+.css-4zleql {
+    display: block;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.css-kfbtp4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.css-10xkmr5 {
+    display: inline-block;
+    margin: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    padding: 6px;
+}
+.css-10xkmr5 >span {
+    display: block;
+    color: #828C94;
+}
+.css-1sql5dk {
+    font-size: 18px;
+    line-height: 1;
+}
+.css-1sql5dk::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+._chevron_down_18:before {
+    content: "\e961";
+}
+
+.css-1nu7ypg {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 700;
+    color: #2F3438;
+    text-align: center;
+    margin-right: 2px;
+    min-width: 20px;
+}
+
+.css-1950n36 >svg {
+    color: #F05656;
+}
+
+.css-v0v1s5 {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 20px;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+    font-style: normal;
+    font-weight: 400;
+    color: #2F3438;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 104px;
+}
+.css-kfbtp4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.css-ga3b11 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.css-1u1t82v {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    width: 100%;
+}
+
+.css-79elbk {
+    position: relative;
+}
+
+.css-walftr {
+    background-color: #FFFFFF;
+}
+
+.css-lo6r8y {
+    max-width: 1256px;
+    margin: 0 auto;
+    padding: 0 60px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.css-1s353rp {
+    position: relative;
+    display: flex;
+    height: 50px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.css-1wowgpr {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.css-nbamed {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    background: none;
+    font-style: inherit;
+    font-variant: inherit;
+    font-stretch: inherit;
+    font-family: inherit;
+    font-optical-sizing: inherit;
+    font-size-adjust: inherit;
+    font-kerning: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    font-size: 16px;
+    line-height: 20px;
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: rgb(53, 197, 240);
+    font-weight: 700;
+}
+.css-xeingn {
+    display: inline-block;
+    width: 3px;
+    height: 3px;
+    background-color: rgb(194, 200, 204);
+}
+
+.css-131jvcu {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    background: none;
+    font-style: inherit;
+    font-variant: inherit;
+    font-stretch: inherit;
+    font-family: inherit;
+    font-optical-sizing: inherit;
+    font-size-adjust: inherit;
+    font-kerning: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    font-size: 16px;
+    line-height: 20px;
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: rgb(47, 52, 56);
+    font-weight: 700;
+}
+
+.css-tbvtth {
+    margin: 0;
+    padding: 0;
+    height: 1px;
+    border: none;
+    background-color: #EAEDEF;
+}
+
+div.css-g81cy2 {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    max-width: 1256px;
+    margin: 0 auto;
+    padding: 0 60px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.css-mek121 {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    width: 100%;
+}
+
+.css-12ioazv {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 12px;
+    text-align: left;
+}
+
+.css-1vqunr {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 4px;
+}
+
+.css-1402wkc {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #2F3438;
+}
+
+.css-njd9uj {
+    font-size: 14px;
+    line-height: 18px;
+    color: #2F3438;
+}
+
+.css-2cxxil {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 8px 14px;
+    border: 1px solid #E6E6E6;
+    border-radius: 4px;
+}
+
+.css-tlophy {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 1;
+    color: #828C94;
+    margin-right: 8px;
+}
+
+.css-tlophy::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+
+._search_24:before {
+    content: "\ea4d";
+}
+
+.css-1uq91j9 {
+    font-size: 16px;
+    line-height: 20px;
+    color: #828C94;
+}
+
+.css-ngcs8e {
+    margin-top: 20px;
+}
+
+.css-rgv3b8 {
+    max-width: 1256px;
+    margin: 0 auto;
+    padding: 0 60px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.css-1mkzu6x {
+    margin-bottom: 40px;
+}
+
+.css-1nlyivo {
+    width: auto;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    vertical-align: top;
+    margin-bottom: 16px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-70qvj9 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-52i126 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #2F3438;
+    margin-left: 4px;
+}
+.css-19ddfp8 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #828C94;
+}
+
+.css-i5q2k0 {
+    display: flex;
+    gap: 10px;
+}
+
+.css-p798th {
+    width: 372px;
+    padding: 12px;
+    border: 1px solid #E6E6E6;
+    border-radius: 8px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.css-1t7s519 {
+    display: flex;
+    margin-bottom: 12px;
+}
+
+.css-9t3qvj {
+    font-size: 12px;
+    line-height: 16px;
+    color: #2F3438;
+}
+
+.css-4gubnx {
+    margin-bottom: 16px;
+}
+
+.css-8fgjmf {
+
+    margin: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    height: 30px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2F3438;
+    font-weight: 500;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0;
+}
+
+.css-16sjla3 {
+    gap: 0px 2px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-1n0o745 {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 700;
+    color: #828C94;
+}
+
+.css-1193xn1 {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 3px 4px;
+    background-color: #F7F9FA;
+    border-radius: 4px;
+}
+
+.css-jiqs19 {
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 14px;
+    color: #828C94;
+}
+
+.css-f12cus {
+    display: inline-flex;
+    margin-left: 2px;
+}
+
+.css-1bbu6cd {
+    display: inline-block;
+    font-size: 12px;
+    line-height: 1;
+    color: #828C94;
+}
+
+.css-1bbu6cd::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+
+._info_outline_12:before {
+    content: "\e9e7";
+}
+
+.css-baldj6 {
+    position: relative;
+}
+
+.css-1dpaxyp {
+    position: relative;
+    z-index: 0;
+}
+
+.css-1cclr1q {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.css-5vzxzt {
+    width: 33.3333%;
+    margin: 0px 20px 0px 0px;
+    padding: 0px;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+    box-sizing: border-box;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    unicode-bidi: isolate;
+}
+ol, ul {
+    list-style: none;
+}
+
+.css-9kfjel {
+    box-sizing: border-box;
+    position: relative;
+    display: block;
+    height: 100%;
+    border: 1px solid #EAEDEF;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.css-okpity {
+    width: 100%;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+.css-1c8e38t {
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: inherit;
+}
+
+.css-myrpd0 {
+    position: relative;
+    height: 100%;
+}
+
+.css-1yvmn59 {
+    box-sizing: border-box;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin: -1px;
+    height: 100%;
+}
+
+.css-fx7cwc {
+    box-sizing: border-box;
+    flex: 0 0 75.56%;
+    width: 75.56%;
+    padding: 1px;
+}
+
+.css-fdbqh3 {
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100%;
+    background-color: #F7F9FA;
+    overflow: hidden;
+}
+
+.css-1dwz00z {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    min-height: 100%;
+    transition: transform 0.2s;
+}
+
+.css-1y8us5z {
+    box-sizing: border-box;
+    -webkit-flex: 0 0 24.43%;
+    -ms-flex: 0 0 24.43%;
+    flex: 0 0 24.43%;
+    width: 24.43%;
+    padding: 1px;
+}
+
+.css-136plpk {
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: -1px;
+    height: 100%;
+}
+
+.css-1v1je6i {
+    box-sizing: border-box;
+    -webkit-flex: 0 0 calc(50% + 1px);
+    -ms-flex: 0 0 calc(50% + 1px);
+    flex: 0 0 calc(50% + 1px);
+    height: 50%;
+    padding: 1px;
+}
+
+.css-cwkq1e {
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 100%;
+    background-color: #F7F9FA;
+    overflow: hidden;
+    height: 100%;
+}
+
+.css-1v1je6i {
+    box-sizing: border-box;
+    flex: 0 0 calc(50% + 1px);
+    height: 50%;
+    padding: 1px;
+}
+
+.css-ww9q8v {
+    padding: 12px 16px 16px;
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+}
+
+.css-hwbdeb {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.css-1ph10w4 {
+    flex: 0 1 auto;
+    min-width: 0;
+    margin-right: 4px;
+}
+
+.css-abac2a {
+    font-weight: 700;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2F3438;
+}
+
+.css-1mp4olj {
+    flex: 0 0 auto;
+    max-width: 60%;
+}
+
+.css-11xz5i6 {
+    display: flex;
+    flex-flow: row wrap;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-lfjdk {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    color: #2F3438;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.css-1bjbdn6 {
+    display: inline-block;
+    font-size: 12px;
+    line-height: 1;
+    color: #35C5F0;
+}
+.css-1bjbdn6::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+._star_12:before {
+    content: "\ea75";
+}
+.css-1x4ljw9 {
+    margin-left: 2px;
+    margin-right: 6px;
+    color: #2F3438;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.css-29lyf1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-1fqv8zx {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 12px;
+}
+
+.css-t4zc2i {
+    margin: 0;
+    padding: 0;
+    height: 1px;
+    border: none;
+    background-color: #EAEDEF;
+    margin: 6px 0px 12px;
+}
+
+.css-1fnawvn {
+    margin-left: 2px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.css-t4zc2i {
+    margin: 0;
+    padding: 0;
+    height: 1px;
+    border: none;
+    background-color: #EAEDEF;
+    margin: 6px 0px 12px;
+}
+
+.css-1sb7ptk {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.css-1qua6kj {
+    display: -webkit-box;
+    height: 100px;
+    color: #2F3438;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.3px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+}
+
+.css-1rjwz57 {
+    border-radius: 0;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    background: #2E3B5C;
+    height: 32px;
+    width: 100%;
+    overflow: hidden;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.css-kul555 {
+    font-size: 12px;
+    line-height: 16px;
+    color: #FFFFFF;
+    margin-left: 6px;
+}
+
+.css-764vc3 {
+    display: -webkit-box;
+    height: 60px;
+    color: #2F3438;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.3px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+}
+
+.css-hi49xp {
+    margin-top: 8px;
+}
+.css-wmjxbc {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    background: #EFFBFF;
+    font-size: 12px;
+    line-height: 16px;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.css-qnpbx5 {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 1;
+    color: #2F3438;
+}
+
+.css-qnpbx5::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+
+.css-1y7dghn {
+    margin: 0 8px;
+    width: 100%;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+}
+
+.css-1ewy34x {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    margin: -1px;
+    height: calc(100% - 32px);
+}
+
+.css-rgv3b8 {
+    max-width: 1256px;
+    margin: 0 auto;
+    padding: 0 60px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.css-i5mmoo {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    text-align: end;
+}
+
+.css-baldj6 {
+    position: relative;
+}
+
+.css-1dpaxyp {
+    position: relative;
+    z-index: 0;
+}
+
+.css-1cclr1q {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.css-101kfn7 {
+    margin: 0 8px 0 0;
+    padding: 0;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+}
+
+.css-187frj {
+    display: inline-block;
+    position: relative;
+    height: 32px;
+    border-radius: 16px;
+    padding-left: 12px;
+    padding-right: 12px;
+    line-height: 0;
+    color: #FFFFFF;
+    background-color: #35C5F0;
+    cursor: pointer;
+}
+.css-187frj::before {
+    content: "";
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.css-10dq9mu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    opacity: 0;
+}
+
+.css-b2kr9d {
+    font-size: 14px;
+    line-height: 18px;
+    vertical-align: middle;
+    white-space: nowrap;
+    cursor: inherit;
+}
+
+.css-1hco6bj {
+    display: inline-block;
+    position: relative;
+    height: 32px;
+    border-radius: 16px;
+    padding-left: 12px;
+    padding-right: 12px;
+    line-height: 0;
+    color: #2F3438;
+    background-color: #F7F9FA;
+    cursor: pointer;
+}
+
+.css-1hco6bj::before {
+    content: "";
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.css-xrhkvt {
+    right: 59px;
+    top: 35px;
+    position: absolute;
+    width: 257px;
+    z-index: 1;
+    text-align: left;
+}
+
+.css-1p0zguf {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.3px;
+    position: relative;
+    display: inline-block;
+}
+
+.css-1h21xgo {
+    padding: 8px 12px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    background-color: #2F3438;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: auto;
+    white-space: pre-line;
+    display: flex;
+    flex-direction: row;
+}
+.css-1l5542h {
+    display: inline-block;
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: 1px solid;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-color: #35C5F0;
+    background-color: #35C5F0;
+    transition: border-color 0.1s, background-color 0.1s;
+    margin-right: 6px;
+}
+.css-om3eqd {
+    position: absolute;
+    overflow: hidden;
+    top: 3.6px;
+    left: 3px;
+    width: 12px;
+    height: 12px;
+    transition: width 0.2s 0.1s;
+}
+
+.css-1nhdzc5 {
+    display: inline-block;
+    font-size: 12px;
+    line-height: 1;
+    vertical-align: top;
+    color: #FFFFFF;
+}
+.css-1nhdzc5::before {
+    font-family: OhouseIcon;
+    vertical-align: top;
+}
+
+.css-18la4m8 {
+    padding: 20px 0px;
+}
+
+.css-f3z39x {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    cursor: pointer;
+}

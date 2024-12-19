@@ -1,0 +1,11 @@
+#image-container {
+    width: 1260px;
+    height: 305px;
+    margin: 0 auto;
+}
+
+.image-wrap {
+    width: 420px;
+    height: 305px;
+    float: left;
+}
